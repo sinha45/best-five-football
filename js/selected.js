@@ -6,6 +6,7 @@ function playerList(playerName) {
     const li = document.createElement('li');
     li.innerText = playerText;
     olContainer.appendChild(li);
+
 }
 
 
